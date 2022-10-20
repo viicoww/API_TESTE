@@ -1,0 +1,14 @@
+[
+  {
+    "id_produto": 001,
+	"categoria": "Furadeiras",
+    "detalhe_produto": {
+	  "produto": "Furadeira Bivolt Power 100",
+      "valor": "R$250,00",
+      "aluguel_dia": "R$30",
+	  "aluguel_semana": "R$80",
+	  "aluguel_mes": "R$120"
+    },
+  },
+
+]
