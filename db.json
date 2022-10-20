@@ -1,4 +1,5 @@
-[
+{
+"produtos":[
   {
     "id_produto": 001,
 	"categoria": "Furadeiras",
@@ -10,5 +11,5 @@
 	  "aluguel_mes": "R$120"
     },
   },
-
+	},
 ]
