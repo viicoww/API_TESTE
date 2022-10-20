@@ -10,28 +10,5 @@
           "aluguel_mes": "R$250"
       },
     },
-   {
-      "id": 2,
-      "nome_produto": "Furadeira 220v Modelo A"
-    },
-    {
-      "id": 3,
-      "nome_produto": "Furadeira 110v Modelo B"
-    }
-  ],
-  "aspiradores": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "Bracini CODE7"
-  }
-}
+ }
+ ]
