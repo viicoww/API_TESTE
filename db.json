@@ -4,7 +4,7 @@
       "id": 1,
       "nome_produto": "Furadeira Bivolt Power",
         "info_produto":{
-          "valor": "R$850",
+          "valor": "R$950",
           "aluguel_dia": "R$50",
           "aluguel_semana": "R$150",
           "aluguel_mes": "R$250"
