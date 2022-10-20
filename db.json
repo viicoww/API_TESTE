@@ -1,5 +1,5 @@
   {
-    ["id_produto": "PROD123",
+    "id_produto": "ABC123",
 	"categoria": "Furadeiras",
     "detalhe_produto": {
 	  "produto": "Furadeira Bivolt Power 100",
@@ -8,5 +8,4 @@
 	  "aluguel_semana": "R$80",
 	  "aluguel_mes": "R$120"
     },
-  ],
-}
+  },
