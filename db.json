@@ -8,6 +8,6 @@
       "aluguel_dia": "R$30",
 	  "aluguel_semana": "R$80",
 	  "aluguel_mes": "R$120"
-    },
-  },
+    }
+  }
 ]
