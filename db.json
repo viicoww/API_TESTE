@@ -1,4 +1,4 @@
-[
+{
   {
     "id_produto": "ABC123",
 	"categoria": "Furadeiras",
@@ -10,4 +10,4 @@
 	  "aluguel_mes": "R$120"
     }
   }
-]
+}
