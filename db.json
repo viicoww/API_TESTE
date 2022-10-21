@@ -1,14 +1,33 @@
-{
-    "furadeiras": [
-      {
-        "id": 1,
-        "nome_produto": "Furadeira Bivolt Power",
-          "info_produto":{
-            "valor": "R$950",
-            "aluguel_dia": "R$50",
-            "aluguel_semana": "R$150",
-            "aluguel_mes": "R$250"
-        }
-      }
-    ]
-  }
+[
+  {
+    "id": 1,
+    "nome_produto": "Furadeira Bivolt Power",
+    "info_produto": {
+      "valor": "R$175",
+      "aluguel_dia": "R$10",
+      "aluguel_semana": "R$30",
+      "aluguel_mes": "R$55"
+    }
+  },
+  {
+    "id": 2,
+    "nome_produto": "Furadeira Impacto 650W",
+    "info_produto": {
+      "valor": "R$220",
+      "aluguel_dia": "R$15",
+      "aluguel_semana": "R$40",
+      "aluguel_mes": "R$65"
+    }
+  },
+    {
+    "id": 3,
+    "nome_produto": "Furadeira Elétrica Cordless",
+    "info_produto": {
+      "valor": "R300",
+      "aluguel_dia": "R$20",
+      "aluguel_semana": "R$45",
+      "aluguel_mes": "R$75"
+    }
+  },
+  
+]
