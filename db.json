@@ -1,65 +1,65 @@
 [
   {
-    "ID": "1",
+    "ID1": "1",
     "id": 1,
-    "Valor": "100",
-    "Produto": "Furadeira Bivolt",
-    "Descrição": "Descrição do produto 1"
+    "Valor1": "100",
+    "Produto1": "Furadeira Bivolt",
+    "Descrição1": "Descrição do produto 1"
   },
   {
-    "ID": "2",
+    "ID2": "2",
     "id": 2,
-    "Valor": "110",
-    "Produto": "Furadeira Elétrica",
-    "Descrição": "Descrição do produto 2"
+    "Valor2": "110",
+    "Produto2": "Furadeira Elétrica",
+    "Descrição2": "Descrição do produto 2"
   },
   {
-    "ID": "3",
+    "ID3": "3",
     "id": 3,
-    "Valor": "120",
-    "Produto": "Aspirador Bivolt",
-    "Descrição": "Descrição do produto 3"
+    "Valor3": "120",
+    "Produto3": "Aspirador Bivolt",
+    "Descrição3": "Descrição do produto 3"
   },
   {
-    "ID": "4",
+    "ID4": "4",
     "id": 4,
-    "Valor": "130",
-    "Produto": "Mini Aspirador",
-    "Descrição": "Descrição do produto 4"
+    "Valor4": "130",
+    "Produto4": "Mini Aspirador",
+    "Descrição4": "Descrição do produto 4"
   },
   {
-    "ID": "5",
+    "ID5": "5",
     "id": 5,
-    "Valor": "140",
-    "Produto": "Escada Flexível",
-    "Descrição": "Descrição do produto 5"
+    "Valor5": "140",
+    "Produto5": "Escada Flexível",
+    "Descrição5": "Descrição do produto 5"
   },
   {
-    "ID": "6",
+    "ID6": "6",
     "id": 6,
-    "Valor": "150",
-    "Produto": "Escada Ajustável",
-    "Descrição": "Descrição do produto 6"
+    "Valor6": "150",
+    "Produto6": "Escada Ajustável",
+    "Descrição6": "Descrição do produto 6"
   },
   {
-    "ID": "7",
+    "ID7": "7",
     "id": 7,
-    "Valor": "160",
-    "Produto": "Parafusadeira 220v",
-    "Descrição": "Descrição do produto 7"
+    "Valor7": "160",
+    "Produto7": "Parafusadeira 220v",
+    "Descrição7": "Descrição do produto 7"
   },
   {
-    "ID": "8",
+    "ID8": "8",
     "id": 8,
-    "Valor": "170",
-    "Produto": "Parafusadeira Eletrônica",
-    "Descrição": "Descrição do produto 8"
+    "Valor8": "170",
+    "Produto8": "Parafusadeira Eletrônica",
+    "Descrição8": "Descrição do produto 8"
   },
   {
-    "ID": "9",
+    "ID9": "9",
     "id": 9,
-    "Valor": "180",
-    "Produto": "Chave Allen",
-    "Descrição": "Descrição do produto 9"
+    "Valor9": "180",
+    "Produto9": "Chave Allen",
+    "Descrição9": "Descrição do produto 9"
   }
 ]
