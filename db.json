@@ -33,33 +33,5 @@
     "Valor5": "140",
     "Produto5": "Escada Flexível",
     "Descrição5": "Descrição do produto 5"
-  },
-  {
-    "ID6": "6",
-    "id": 6,
-    "Valor6": "150",
-    "Produto6": "Escada Ajustável",
-    "Descrição6": "Descrição do produto 6"
-  },
-  {
-    "ID7": "7",
-    "id": 7,
-    "Valor7": "160",
-    "Produto7": "Parafusadeira 220v",
-    "Descrição7": "Descrição do produto 7"
-  },
-  {
-    "ID8": "8",
-    "id": 8,
-    "Valor8": "170",
-    "Produto8": "Parafusadeira Eletrônica",
-    "Descrição8": "Descrição do produto 8"
-  },
-  {
-    "ID9": "9",
-    "id": 9,
-    "Valor9": "180",
-    "Produto9": "Chave Allen",
-    "Descrição9": "Descrição do produto 9"
   }
 ]
