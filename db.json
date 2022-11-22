@@ -1,21 +1,65 @@
-
 [
-    {
-        'id01':1,
-        'nome01': 'Furadeira Bivolt',
-        'descricao01': 'Furadeira Bivolt Power, ferramenta eletrica capaz de lhe ajudar nas tarefas do dia-a-dia.',
-        'valor01': 'R$220,00'
-    },
-    {
-        'id02':2,
-        'nome02': 'Parafusadeira Eletrica',
-        'descricao02': 'Parafusadeira Eletrica, equipamento potente.',
-        'valor02': 'R$180,00'
-    },
-    {
-        'id03':3,
-        'nome03': 'Aspirador 220v',
-        'descricao03': 'Aspirador 220v, capaz de aspirar qualquer tipo de poeira.',
-        'valor03': 'R$110,00'
-    }       
+  {
+    "ID": "1",
+    "id": 1,
+    "Valor": "100",
+    "Produto": "Furadeira Bivolt",
+    "Descrição": "Descrição do produto 1"
+  },
+  {
+    "ID": "2",
+    "id": 2,
+    "Valor": "110",
+    "Produto": "Furadeira Elétrica",
+    "Descrição": "Descrição do produto 2"
+  },
+  {
+    "ID": "3",
+    "id": 3,
+    "Valor": "120",
+    "Produto": "Aspirador Bivolt",
+    "Descrição": "Descrição do produto 3"
+  },
+  {
+    "ID": "4",
+    "id": 4,
+    "Valor": "130",
+    "Produto": "Mini Aspirador",
+    "Descrição": "Descrição do produto 4"
+  },
+  {
+    "ID": "5",
+    "id": 5,
+    "Valor": "140",
+    "Produto": "Escada Flexível",
+    "Descrição": "Descrição do produto 5"
+  },
+  {
+    "ID": "6",
+    "id": 6,
+    "Valor": "150",
+    "Produto": "Escada Ajustável",
+    "Descrição": "Descrição do produto 6"
+  },
+  {
+    "ID": "7",
+    "id": 7,
+    "Valor": "160",
+    "Produto": "Parafusadeira 220v",
+    "Descrição": "Descrição do produto 7"
+  },
+  {
+    "ID": "8",
+    "id": 8,
+    "Valor": "170",
+    "Produto": "Parafusadeira Eletrônica",
+    "Descrição": "Descrição do produto 8"
+  },
+  {
+    "ID": "9",
+    "id": 9,
+    "Valor": "180",
+    "Produto": "Chave Allen",
+    "Descrição": "Descrição do produto 9"
+  }
 ]
