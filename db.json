@@ -1,12 +1,20 @@
-
-{
-    "id01": 1,
-    "nome_produto01": "Produto 01",
-    "valor01": "R$175",
-    "id02": 2,
-    "nome_produto02": "Produto02",
-    "valor02": "R$195",
-    "id02": 3,
-    "nome_produto03": "Produto03",
-    "valor03": "R$250"
-}    
+produtos = [
+    {
+        'id01':1,
+        'nome01': 'Furadeira Bivolt',
+        'descricao01': 'Furadeira Bivolt Power, ferramenta eletrica capaz de lhe ajudar nas tarefas do dia-a-dia.',
+        'valor01': 'R$220,00'
+    },
+    {
+        'id02':2,
+        'nome02': 'Parafusadeira Eletrica',
+        'descricao02': 'Parafusadeira Eletrica, equipamento potente.',
+        'valor02': 'R$180,00'
+    },
+    {
+        'id03':3,
+        'nome03': 'Aspirador 220v',
+        'descricao03': 'Aspirador 220v, capaz de aspirar qualquer tipo de poeira.',
+        'valor03': 'R$110,00'
+    },       
+]
