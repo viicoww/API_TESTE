@@ -1,3 +1,7 @@
+from flask import Flask, jsonify, request
+
+app = Flask(__name__)
+
 produtos = [
     {
         'id01':1,
@@ -18,3 +22,8 @@ produtos = [
         'valor03': 'R$110,00'
     },       
 ]
+
+# Consultar TODOS
+@app.route('/produtos',methods=['GET'])
+def obter_produtos():
+    return jsonify(produtos)
