@@ -2,15 +2,18 @@
   "cadastro": [
     {
       "id": 12345678900,
-      "nome": "Victor Bracini"
+      "nome": "Victor Bracini",
+      "endereco": "Rua dos Testes, 123"
     },
     {
       "id": 12345678912,
-      "nome": "Indianara Lopes"
+      "nome": "Indianara Lopes",
+      "endereco": "Rua dos Testes, 456"
     },
     {
       "id": 99999999999,
-      "nome": "Teste Testinho"
+      "nome": "Teste Testinho",
+      "endereco": "Rua dos Testes, 789"
     }
   ],
   "profile": {
