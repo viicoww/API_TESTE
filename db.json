@@ -1,37 +1,19 @@
-[
-  {
-    "cpf": "12345678912",
-    "id": 1,
-    "mome": "João",
-    "sobrenome": "Alves",
-    "descricao": "TESTE01"
-  },
-  {
-    "cpf": "12345678913",
-    "id": 2,
-    "nome": "Maria",
-    "sobrenome": "Batista",
-    "descricao": "TESTE02"
-  },
-  {
-    "cpf": "12345678914",
-    "id": 3,
-    "nome": "Luana",
-    "sobrenome": "Gomes",
-    "descricao": "TESTE03"
-  },
-  {
-    "cpf": "12345678915",
-    "id": 4,
-    "nome": "Marcos",
-    "sobrenome": "Paulo",
-    "descricao": "TESTE04"
-  },
-  {
-    "cpf": "12345678916",
-    "id": 5,
-    "nome": "Alessandra",
-    "sobrenome": "Soares",
-    "descricao": "TESTE05"
+{
+  "cadastro": [
+    {
+      "cpf": 1,
+      "nome": "Post 1"
+    },
+    {
+      "cpf": 2,
+      "nome": "Post 2"
+    },
+    {
+      "cpf": 3,
+      "nome": "Post 3"
+    }
+  ],
+  "profile": {
+    "name": "viicoww"
   }
-]
+}
