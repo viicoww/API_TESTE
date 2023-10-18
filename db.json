@@ -1,19 +1,19 @@
 {
-  "cadastro": [
+  "plantao": [
     {
-      "id": 12345678900,
+      "id": 00,
       "nome": "Victor Bracini",
-      "endereco": "Rua dos Testes, 123"
+      "telefone": "5548999999990"
     },
     {
-      "id": 12345678912,
+      "id": 00,
       "nome": "Indianara Lopes",
-      "endereco": "Rua dos Testes, 456"
+      "telefone": "5548999999991"
     },
     {
-      "id": 99999999999,
-      "nome": "Teste Testinho",
-      "endereco": "Rua dos Testes, 789"
+      "id": 01,
+      "nome": "Plantonista Ativo",
+      "telefone": "5548999999999"
     }
   ],
   "profile": {
