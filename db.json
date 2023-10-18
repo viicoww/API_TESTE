@@ -1,19 +1,22 @@
 {
   "plantao": [
     {
-      "id": "00",
-      "nome": "Victor Bracini",
-      "telefone": "5548999999990"
-    },
-    {
-      "id": "00",
-      "nome": "Indianara Lopes",
-      "telefone": "5548999999991"
-    },
-    {
       "id": "01",
+      "nome": "Victor Bracini",
+      "telefone": "5548999999990",
+      "ativo": "nao"
+    },
+    {
+      "id": "02",
+      "nome": "Indianara Lopes",
+      "telefone": "5548999999991",
+      "ativo": "nao"
+    },
+    {
+      "id": "03",
       "nome": "Plantonista Ativo",
-      "telefone": "5548999999999"
+      "telefone": "5548999999999",
+      "ativo": "sim"
     }
   ],
   "profile": {
