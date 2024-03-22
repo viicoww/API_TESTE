@@ -13,14 +13,6 @@
       "ativo": "nao"
     }
   ],
-  "produtos": [
-    {
-      "id": "lavadoura",
-      "nome": "Lavadoura Brastemp",
-      "endereco": "Preço: 500 Reais",
-      "ativo": "nao"
-    }
-  ],
   "profile": {
     "name": "viicoww"
   }
